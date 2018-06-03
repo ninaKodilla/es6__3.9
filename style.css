@@ -1,0 +1,13 @@
+.user__profile {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    margin: 10px 0;
+}
+
+.users {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 40px 0;
+}
